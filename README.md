@@ -65,6 +65,8 @@ An interactive dashboard was developed using Power BI to present key financial i
 ## Dashboard Preview
 
 The Power BI dashboard provides a visual representation of financial performance trends, KPI tracking, and comparative analysis of BRAC Bank from 2020–2023.
+<img width="995" height="565" alt="Screenshot 2026-04-26 014409" src="https://github.com/user-attachments/assets/bb802bc4-63c3-4c54-a56f-c4d539f1ad0e" />
+
 
 ---
 
